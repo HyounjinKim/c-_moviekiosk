@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#project\\c#project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|d:\\c#project\\c#project\\c#project\\ticketing\\ticketing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\ticketing\\ticketing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|D:\\c#project\\c#project\\c#project\\ticketing\\ticketing1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\ticketing\\ticketing1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|D:\\c#project\\c#project\\c#project\\ticketing\\ticketing1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\ticketing\\ticketing1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|d:\\c#project\\c#project\\c#project\\database\\testdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\database\\testdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|d:\\c#project\\c#project\\c#project\\ticketing\\ticketing1-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\ticketing\\ticketing1-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|d:\\c#project\\c#project\\c#project\\ticketing\\ticketing1-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\ticketing\\ticketing1-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|d:\\c#project\\c#project\\c#project\\ticketing\\ticketing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\ticketing\\ticketing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|D:\\c#project\\c#project\\c#project\\movie\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\movie\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|D:\\c#project\\c#project\\c#project\\seat\\movieseat1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\seat\\movieseat1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|D:\\c#project\\c#project\\c#project\\select\\seatselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\select\\seatselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|D:\\c#project\\c#project\\c#project\\select\\seatselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\select\\seatselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|d:\\c#project\\c#project\\c#project\\final\\final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\final\\final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|D:\\c#project\\c#project\\c#project\\final\\final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\final\\final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|D:\\c#project\\c#project\\c#project\\seat\\movieseat1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\seat\\movieseat1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|D:\\c#project\\c#project\\c#project\\movie\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\movie\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 571,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestDB.cs",
+              "DocumentMoniker": "D:\\c#project\\c#project\\c#project\\database\\TestDB.cs",
+              "RelativeDocumentMoniker": "c#project\\database\\TestDB.cs",
+              "ToolTip": "D:\\c#project\\c#project\\c#project\\database\\TestDB.cs",
+              "RelativeToolTip": "c#project\\database\\TestDB.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T00:20:40.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ticketing1-1.cs",
+              "DocumentMoniker": "D:\\c#project\\c#project\\c#project\\ticketing\\Ticketing1-1.cs",
+              "RelativeDocumentMoniker": "c#project\\ticketing\\Ticketing1-1.cs",
+              "ToolTip": "D:\\c#project\\c#project\\c#project\\ticketing\\Ticketing1-1.cs",
+              "RelativeToolTip": "c#project\\ticketing\\Ticketing1-1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T00:21:21.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ticketing.cs",
+              "DocumentMoniker": "D:\\c#project\\c#project\\c#project\\ticketing\\Ticketing.cs",
+              "RelativeDocumentMoniker": "c#project\\ticketing\\Ticketing.cs",
+              "ToolTip": "D:\\c#project\\c#project\\c#project\\ticketing\\Ticketing.cs",
+              "RelativeToolTip": "c#project\\ticketing\\Ticketing.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T00:20:48.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ticketing1-1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\c#project\\c#project\\c#project\\ticketing\\Ticketing1-1.cs",
+              "RelativeDocumentMoniker": "c#project\\ticketing\\Ticketing1-1.cs",
+              "ToolTip": "D:\\c#project\\c#project\\c#project\\ticketing\\Ticketing1-1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "c#project\\ticketing\\Ticketing1-1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T00:20:34.817Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ticketing1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\c#project\\c#project\\c#project\\ticketing\\Ticketing1.cs",
+              "RelativeDocumentMoniker": "c#project\\ticketing\\Ticketing1.cs",
+              "ToolTip": "D:\\c#project\\c#project\\c#project\\ticketing\\Ticketing1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "c#project\\ticketing\\Ticketing1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:22:04.256Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ticketing1.cs",
+              "DocumentMoniker": "D:\\c#project\\c#project\\c#project\\ticketing\\Ticketing1.cs",
+              "RelativeDocumentMoniker": "c#project\\ticketing\\Ticketing1.cs",
+              "ToolTip": "D:\\c#project\\c#project\\c#project\\ticketing\\Ticketing1.cs",
+              "RelativeToolTip": "c#project\\ticketing\\Ticketing1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:27:42.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ticketing.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\c#project\\c#project\\c#project\\ticketing\\Ticketing.cs",
+              "RelativeDocumentMoniker": "c#project\\ticketing\\Ticketing.cs",
+              "ToolTip": "D:\\c#project\\c#project\\c#project\\ticketing\\Ticketing.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "c#project\\ticketing\\Ticketing.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T00:20:25.446Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovieSeat1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\c#project\\c#project\\c#project\\seat\\MovieSeat1.cs",
+              "RelativeDocumentMoniker": "c#project\\seat\\MovieSeat1.cs",
+              "ToolTip": "D:\\c#project\\c#project\\c#project\\seat\\MovieSeat1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "c#project\\seat\\MovieSeat1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:28:57.882Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SeatSelect.cs",
+              "DocumentMoniker": "D:\\c#project\\c#project\\c#project\\select\\SeatSelect.cs",
+              "RelativeDocumentMoniker": "c#project\\select\\SeatSelect.cs",
+              "ToolTip": "D:\\c#project\\c#project\\c#project\\select\\SeatSelect.cs",
+              "RelativeToolTip": "c#project\\select\\SeatSelect.cs",
+              "ViewState": "AQIAALwAAAAAAAAAAAAswM4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:37:51.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Movie.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\c#project\\c#project\\c#project\\movie\\Movie.cs",
+              "RelativeDocumentMoniker": "c#project\\movie\\Movie.cs",
+              "ToolTip": "D:\\c#project\\c#project\\c#project\\movie\\Movie.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "c#project\\movie\\Movie.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:29:21.478Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SeatSelect.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\c#project\\c#project\\c#project\\select\\SeatSelect.cs",
+              "RelativeDocumentMoniker": "c#project\\select\\SeatSelect.cs",
+              "ToolTip": "D:\\c#project\\c#project\\c#project\\select\\SeatSelect.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "c#project\\select\\SeatSelect.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:37:50.328Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Final.cs",
+              "DocumentMoniker": "D:\\c#project\\c#project\\c#project\\final\\Final.cs",
+              "RelativeDocumentMoniker": "c#project\\final\\Final.cs",
+              "ToolTip": "D:\\c#project\\c#project\\c#project\\final\\Final.cs",
+              "RelativeToolTip": "c#project\\final\\Final.cs",
+              "ViewState": "AQIAAP0AAAAAAAAAAAAAAOsBAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:41:48.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MovieSeat1.cs",
+              "DocumentMoniker": "D:\\c#project\\c#project\\c#project\\seat\\MovieSeat1.cs",
+              "RelativeDocumentMoniker": "c#project\\seat\\MovieSeat1.cs",
+              "ToolTip": "D:\\c#project\\c#project\\c#project\\seat\\MovieSeat1.cs",
+              "RelativeToolTip": "c#project\\seat\\MovieSeat1.cs",
+              "ViewState": "AQIAAO4AAAAAAAAAAAAgwGkBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:28:59.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\c#project\\c#project\\c#project\\movie\\Movie.cs",
+              "RelativeDocumentMoniker": "c#project\\movie\\Movie.cs",
+              "ToolTip": "D:\\c#project\\c#project\\c#project\\movie\\Movie.cs",
+              "RelativeToolTip": "c#project\\movie\\Movie.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAYwGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:29:35.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Final.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\c#project\\c#project\\c#project\\final\\Final.cs",
+              "RelativeDocumentMoniker": "c#project\\final\\Final.cs",
+              "ToolTip": "D:\\c#project\\c#project\\c#project\\final\\Final.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "c#project\\final\\Final.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:41:47.275Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
